@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061201854849",
+    "project_id": "crud-notif-firebase",
+    "storage_bucket": "crud-notif-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061201854849:android:e7b589e6f5b9cd47566880",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBetUiQyqRFSbMJIFHVjEyXuU3jc0WKzBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
